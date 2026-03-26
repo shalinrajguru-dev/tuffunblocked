@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "thumbnail": "https://picsum.photos/seed/2048/300/200",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "2",
+    "title": "Hextris",
+    "thumbnail": "https://picsum.photos/seed/hextris/300/200",
+    "iframeUrl": "https://hextris.io/"
+  },
+  {
+    "id": "3",
+    "title": "Doodle Jump (Clone)",
+    "thumbnail": "https://picsum.photos/seed/doodle/300/200",
+    "iframeUrl": "https://doodlejump.io/"
+  },
+  {
+    "id": "4",
+    "title": "Snake",
+    "thumbnail": "https://picsum.photos/seed/snake/300/200",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "5",
+    "title": "Pac-Man",
+    "thumbnail": "https://picsum.photos/seed/pacman/300/200",
+    "iframeUrl": "https://macek.github.io/google_pacman/"
+  },
+  {
+    "id": "6",
+    "title": "Tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/300/200",
+    "iframeUrl": "https://tetris.com/play-tetris"
+  }
+]
